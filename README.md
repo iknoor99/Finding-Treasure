@@ -60,3 +60,6 @@ Woo hoo, I found the treasure :-)
 +############
 
 ++++++++++++@
+
+The + characters indicate the path that led to the treasure. The ! characters
+indicate the tunnels that were tried but did not to lead to a viable path.

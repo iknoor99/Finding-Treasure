@@ -4,12 +4,19 @@ The task involves finding treasure through the given map.
 The map could look like this:-
 
 ---#--###----
+
 -#---#----##-
+
 ####-#-#-#-##
+
 ---#---#-#---
+
 -#-####---##-
+
 -#------#----
+
 -############
+
 ------------@
 
 Here, the – characters indicate that you are free to move in this direction. The # character indicates
